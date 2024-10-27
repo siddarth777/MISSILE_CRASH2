@@ -1,0 +1,31 @@
+﻿Build started at 14:54...
+1>------ Build started: Project: IC_PROJECT, Configuration: Debug x64 ------
+1>Main_game.c
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(158,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(159,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(160,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(161,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(150,70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(150,96): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(151,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(151,52): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(151,78): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(151,109): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(231,39): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>C:\Users\sidda\source\repos\IC_PROJECT\IC_PROJECT\main.h(231,56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+1>(compiling source file 'Main_game.c')
+1>IC_PROJECT.vcxproj -> C:\Users\sidda\source\repos\IC_PROJECT\x64\Debug\IC_PROJECT.exe
+1>Done building project "IC_PROJECT.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14:54 and took 00.361 seconds ==========
